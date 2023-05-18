@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;500;600;700&display=swap');
 
 /* Box sizing rules */
 *,
@@ -37,7 +37,7 @@ body {
   min-height: 100vh;
   text-rendering: optimizeSpeed;
   line-height: 1.5;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Lato', sans-serif;
   background: linear-gradient(90deg, var(--grey) 31px, transparent 1px) 50%, linear-gradient(180deg, var(--grey) 31px, var(--blue) 1px) 50%;
   background-size: 32px 32px;
   color: var(--dark);
@@ -81,11 +81,11 @@ select {
 
 /* GLOBAL STYLES */
 :root {
-	--blue: #335DFF;
+	--blue: #239C84;
 	--grey: #F5F5F5;
 	--grey-d-1: #EEE;
 	--grey-d-2: #DDD;
-	--grey-d-3: #888;
+	--grey-d-3: #2ECAAB;
 	--white: #FFF;
 	--dark: #222;
 }
